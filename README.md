@@ -7,4 +7,5 @@ Script that can reveal the un-nicked name of players on cytooxien.
 ## [Website here (only with ID and password!)](http://cxn.azurewebsites.net/swagger/)
 
 # Screenshot of the program
-![grafik](https://github.com/CytooxienDE/NickLeaker/assets/72726961/7b8ceb43-7660-45fc-9e93-24bb25bc78ab)
+![grafik](https://github.com/CytooxienDE/NickLeaker/assets/72726961/d157ea56-af78-4132-a993-a80bb00fb0c2)
+
